@@ -1,11 +1,8 @@
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/fatty-men-diet-trying-control-body-weight-with-bmi-body-mass-index-control_530733-3467.jpg" alt="BMI Illustration" width="450">
+</p>
+
 # BMI Calculator Project
-
-👩🏻‍💻 **Owner:** Buse Şimşek  
-🗓️ **Date:** June 19, 2025
-
----
-
-## Description
 This Python project calculates the Body Mass Index (BMI) based on a user's height and weight inputs. After calculating BMI, it classifies the result into standard health categories such as underweight, normal, overweight, and obese, providing meaningful feedback for each category.
 
 ---
